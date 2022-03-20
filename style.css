@@ -82,10 +82,21 @@ a {
 }
 .column1 img {
   margin-left: 35px;
+  padding-top: 15px;
 }
 .column3 img {
   width: 40%;
   margin-left: 20px;
+}
+.pic1 img{
+  float: right;
+  margin-top: -350px;
+  margin-right: 80px;
+}
+.pic2 img {
+  float: right;
+  margin-top: -200px;
+  margin-right: 80px;
 }
 img {
   margin-left: 40px;
